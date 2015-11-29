@@ -1,0 +1,10 @@
+{
+  "name": "mooch-events",
+  "version": "",
+  "description": "Provides a simple API for events",
+  "devDependencies": {
+    "eslint": "^1.10.2",
+    "eslint-config-airbnb": "^1.0.2",
+    "eslint-plugin-meteor": "^1.7.0"
+  }
+}
