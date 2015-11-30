@@ -16,6 +16,7 @@ Package.onUse(function(api) {
   api.use('ddp');
   api.use('ecmascript');
   api.use('tracker');
+  api.use('stevezhu:lodash');
 
   // The files of this package
   api.addFiles('shared/index.js', ['client', 'server']);
